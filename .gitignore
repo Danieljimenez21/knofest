@@ -1,0 +1,7 @@
+*.mp4
+*.ogv
+*.webm
+*.webp
+*.jpg
+*.avif
+node_modules
